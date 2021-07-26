@@ -1,0 +1,7 @@
+@inproceedings{noh2021hvpr,
+  title={HVPR: Hybrid Voxel-Point Representation for Single-stage 3D Object Detection},
+  author={Noh, Jongyoun and Lee, Sanghoon and Ham, Bumsub},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={14605--14614},
+  year={2021}
+}
