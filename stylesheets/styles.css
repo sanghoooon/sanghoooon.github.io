@@ -61,7 +61,7 @@ a:hover small {
 }
 
 blockquote {
-  border-left:1px solid #e5e5e5;
+  border-left:2px solid #e5e5e5;
   margin:0;
   padding:0 0 0 10px;
   font-style:normal;
@@ -188,7 +188,7 @@ hr {
 }
 
 footer {
-  width:270px;
+  width:150px;
   float:left;
   position:fixed;
   bottom:50px;
