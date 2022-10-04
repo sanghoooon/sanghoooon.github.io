@@ -1,0 +1,6 @@
+@article{lee2022oimnet++,
+  title={OIMNet++: Prototypical Normalization and Localization-aware Learning for Person Search},
+  author={Lee, Sanghoon and Oh, Youngmin and Baek, Donghyeon and Lee, Junghyup and Ham, Bumsub},
+  journal={arXiv preprint arXiv:2207.10320},
+  year={2022}
+}
