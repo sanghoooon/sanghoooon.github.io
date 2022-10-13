@@ -1,0 +1,6 @@
+@InProceedings{Baek_2022_NeurIPS,
+    author    = {Baek, Donghyeon and Oh, Youngmin and Lee, Sanghoon and Lee, Junghyup and Ham, Bumsub},
+    title     = {Decomposed Knowledge Distillation for Class-Incremental Semantic Segmentation},
+    booktitle = {NeurIPS},
+    year      = {2022}
+}
