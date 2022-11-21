@@ -1,6 +1,8 @@
-@article{lee2022oimnet++,
-  title={OIMNet++: Prototypical Normalization and Localization-aware Learning for Person Search},
+@inproceedings{lee2022oimnet++,
+  title={OIMNet++: Prototypical Normalization and Localization-Aware Learning for Person Search},
   author={Lee, Sanghoon and Oh, Youngmin and Baek, Donghyeon and Lee, Junghyup and Ham, Bumsub},
-  journal={arXiv preprint arXiv:2207.10320},
-  year={2022}
+  booktitle={European Conference on Computer Vision},
+  pages={621--637},
+  year={2022},
+  organization={Springer}
 }
