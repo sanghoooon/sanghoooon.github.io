@@ -1,0 +1,8 @@
+@article{lee2024plops,
+  title={PLoPS: Localization-aware person search with prototypical normalization},
+  author={Lee, Sanghoon and Oh, Youngmin and Baek, Donghyeon and Lee, Junghyup and Ham, Bumsub},
+  journal={Pattern Recognition},
+  pages={110479},
+  year={2024},
+  publisher={Elsevier}
+}
